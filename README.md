@@ -1,8 +1,8 @@
 # EcommerceAssignemt
 
-Assignment: Ecommerce App Development
+Assignment: E-commerce App Development
 Overview:
-Your task is to create a sample ecommerce app for iOS, implementing various features that provide a seamless shopping experience. The app should include the following key functionalities:
+Your task is to create a sample e-commerce app for iOS, implementing various features that provide a seamless shopping experience. The app should include the following key functionalities:
 
 
 1. Home Page:
@@ -58,3 +58,19 @@ Showcase your design skills by implementing a visually appealing and user-friend
 CI/CD Build Pipeline:
 
 Develop a CI/CD build pipeline for your app, utilizing a build system of your choice (e.g., GitHub Workflows, Bitbucket Pipelines, Bamboo, Jenkins, etc.).
+
+
+
+
+Output
+
+<img width="484" alt="Screenshot 2024-02-06 at 6 04 31 PM" src="https://github.com/softtrainee/EcommerceAssignemt/assets/3404639/7b09453c-bfe3-45c1-92ae-abd65e86f1a2">
+<img width="484" alt="Screenshot 2024-02-06 at 6 04 25 PM" src="https://github.com/softtrainee/EcommerceAssignemt/assets/3404639/298b1420-087e-4e80-99ed-0aadc1b8364d">
+<img width="484" alt="Screenshot 2024-02-06 at 3 48 14 PM" src="https://github.com/softtrainee/EcommerceAssignemt/assets/3404639/e3260246-c72f-40ff-8bec-b6b7381570bd">
+<img width="484" alt="Screenshot 2024-02-06 at 3 47 59 PM" src="https://github.com/softtrainee/EcommerceAssignemt/assets/3404639/1dfd2741-1205-47c5-8c2b-39151c149ddc">
+<img width="484" alt="Screenshot 2024-02-06 at 3 47 30 PM" src="https://github.com/softtrainee/EcommerceAssignemt/assets/3404639/95fa145b-a17a-4c5f-863e-20b2ae0ffd07">
+<img width="484" alt="Screenshot 2024-02-06 at 3 47 13 PM" src="https://github.com/softtrainee/EcommerceAssignemt/assets/3404639/6e0c87df-bd4a-4c65-8e6a-106d8bc9bc8f">
+<img width="484" alt="Screenshot 2024-02-06 at 3 47 04 PM" src="https://github.com/softtrainee/EcommerceAssignemt/assets/3404639/22cef4d3-7e3e-4ee9-a067-3af9a9ce1529">
+
+
+
