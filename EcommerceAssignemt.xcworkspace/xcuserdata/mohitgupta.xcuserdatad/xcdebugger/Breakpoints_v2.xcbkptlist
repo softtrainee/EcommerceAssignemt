@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "470883EB-B021-40EC-9248-E0D71032D006"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CC21B9D0-AD70-42ED-B1FA-B2F129352FD1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EcommerceAssignemt/ProductList/ProductListWorker.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "fecthProducts(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EE6AECB0-3722-461F-9121-782E15619E04"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EcommerceAssignemt/LoginViewController/Presenter/LoginViewPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "forgetPassword()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EE6AECB0-3722-461F-9121-782E15619E04 - 70a34a316cdb1bd6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EcommerceAssignemt.LoginViewPresenter.forgetPassword() -&gt; ()"
+                  moduleName = "EcommerceAssignemt"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohitgupta/Downloads/EcommerceAssignemt/EcommerceAssignemt/LoginViewController/Presenter/LoginViewPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "50">
+               </Location>
+               <Location
+                  uuid = "EE6AECB0-3722-461F-9121-782E15619E04 - 70a34a316cdb1bd6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "EcommerceAssignemt.LoginViewPresenter.forgetPassword() -&gt; ()"
+                  moduleName = "EcommerceAssignemt"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mohitgupta/Downloads/EcommerceAssignemt/EcommerceAssignemt/LoginViewController/Presenter/LoginViewPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "89">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A69F67C1-E8F8-4806-9FEB-569556F79528"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "EcommerceAssignemt/LoginViewController/WireFrame/LoginViewWireFrame.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "presentForgetPasswordScreen(from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
