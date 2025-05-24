@@ -61,7 +61,6 @@ Develop a CI/CD build pipeline for your app, utilizing a build system of your ch
 
 
 
-
 Output
 
 <img width="484" alt="Screenshot 2024-02-06 at 6 04 31 PM" src="https://github.com/softtrainee/EcommerceAssignemt/assets/3404639/7b09453c-bfe3-45c1-92ae-abd65e86f1a2">
@@ -71,6 +70,3 @@ Output
 <img width="484" alt="Screenshot 2024-02-06 at 3 47 30 PM" src="https://github.com/softtrainee/EcommerceAssignemt/assets/3404639/95fa145b-a17a-4c5f-863e-20b2ae0ffd07">
 <img width="484" alt="Screenshot 2024-02-06 at 3 47 13 PM" src="https://github.com/softtrainee/EcommerceAssignemt/assets/3404639/6e0c87df-bd4a-4c65-8e6a-106d8bc9bc8f">
 <img width="484" alt="Screenshot 2024-02-06 at 3 47 04 PM" src="https://github.com/softtrainee/EcommerceAssignemt/assets/3404639/22cef4d3-7e3e-4ee9-a067-3af9a9ce1529">
-
-
-
