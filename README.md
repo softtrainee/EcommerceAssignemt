@@ -59,8 +59,6 @@ CI/CD Build Pipeline:
 
 Develop a CI/CD build pipeline for your app, utilizing a build system of your choice (e.g., GitHub Workflows, Bitbucket Pipelines, Bamboo, Jenkins, etc.).
 
-
-
 Output
 
 <img width="484" alt="Screenshot 2024-02-06 at 6 04 31 PM" src="https://github.com/softtrainee/EcommerceAssignemt/assets/3404639/7b09453c-bfe3-45c1-92ae-abd65e86f1a2">
